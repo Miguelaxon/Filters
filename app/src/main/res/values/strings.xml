@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Filters</string>
+    <string name="button_Indice">Filtro por Indice</string>
+    <string name="button_Instancia">Filtro por Instancia</string>
+    <string name="button_Ascendente">Filtro Ascendente</string>
+</resources>
