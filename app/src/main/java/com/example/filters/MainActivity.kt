@@ -37,5 +37,10 @@ class MainActivity : AppCompatActivity() {
                 textView.setText(it.toUpperCase())
             }
         }
+        boton3 = findViewById(R.id.button3)
+        boton3.setOnClickListener {
+            textView.setText(unsortedList.sorted().toString())
+        }
+
     }
 }
